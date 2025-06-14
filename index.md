@@ -1,4 +1,4 @@
-- 签到时间 2025-06-13 22:23:15 [![签到状态](https://github.com/chanho0/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/chanho0/189pan/actions/workflows/main.yml)
+- 签到时间 2025-06-14 15:38:20 [![签到状态](https://github.com/chanho0/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/chanho0/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - 错误：环境变量TYYP_USERNAME或TYYP_PSW未设置
