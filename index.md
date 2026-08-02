@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/chanho0/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/chanho0/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/chanho0/189pan)
 
-**最后更新:** 2026-08-02 12:54:55 CST
+**最后更新:** 2026-08-02 22:47:10 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/chanho0/189pan/actions)
-- 📋 [查看最新运行](https://github.com/chanho0/189pan/actions/runs/30733177829)
+- 📋 [查看最新运行](https://github.com/chanho0/189pan/actions/runs/30752868015)
 - 🏠 [返回项目主页](https://github.com/chanho0/189pan)
 - ⚙️ [手动触发签到](https://github.com/chanho0/189pan/actions/workflows/main.yml)
 
@@ -16,7 +16,7 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-08-02 12:54:55
+- **启动时间**: 2026-08-02 22:47:10
 - **账户数量**: 2 个
 
 ## 账户1
@@ -33,7 +33,7 @@
 
 ---
 ## 执行统计
-- **结束时间**: 2026-08-02 12:55:07
-- **运行时长**: 11.87 秒
+- **结束时间**: 2026-08-02 22:47:18
+- **运行时长**: 7.87 秒
 
 ✅ **所有账户处理完成！**
